@@ -1,0 +1,37 @@
+Level,Diabetes Type,Meal Type,Breakfast,Lunch,Dinner
+Level 0,No Diabetes,Easy,Whole-grain oatmeal with honey and almonds,Grilled chicken Caesar salad (light dressing),Whole-grain pasta with marinara sauce and turkey meatballs
+Level 0,No Diabetes,Easy,Scrambled eggs with avocado and spinach,Grilled chicken wrap with veggies and hummus,Baked salmon with roasted vegetables
+Level 0,No Diabetes,Easy,Greek yogurt with fresh berries and chia seeds,Chicken stir-fry with brown rice and broccoli,Grilled steak with sautéed mushrooms
+Level 0,No Diabetes,Intermediate,"Scrambled eggs with spinach, tomato, and feta cheese",Grilled chicken with quinoa and mixed greens,Grilled salmon with roasted Brussels sprouts and quinoa
+Level 0,No Diabetes,Intermediate,Whole-grain toast with almond butter and banana,Grilled chicken wrap with mixed veggies,Baked cod with roasted sweet potatoes
+Level 0,No Diabetes,Intermediate,"Smoothie with spinach, almond milk, and berries",Lentil soup with a slice of whole-grain bread,Grilled chicken with quinoa and steamed broccoli
+Level 0,No Diabetes,Difficult,Chia pudding with almond milk and fresh berries,Grilled shrimp salad with avocado and olive oil dressing,Roasted chicken with a side of roasted Brussels sprouts
+Level 0,No Diabetes,Difficult,Avocado toast with poached eggs,Spinach and kale salad with grilled chicken,Grilled salmon with roasted cauliflower
+Level 0,No Diabetes,Difficult,Cottage cheese with pineapple chunks,Grilled chicken and roasted vegetable wrap,Stuffed bell peppers with quinoa and turkey
+Level 1,Type 1 Diabetes,Easy,Avocado toast with poached egg,Turkey wrap with hummus and veggies,Baked salmon with asparagus and quinoa
+Level 1,Type 1 Diabetes,Easy,Peanut butter on whole-grain toast,Baked chicken thighs with roasted Brussels sprouts,Zucchini noodles with marinara sauce
+Level 1,Type 1 Diabetes,Easy,Almond flour pancakes with fresh berries,Spinach and kale salad with grilled chicken,Roasted lamb with a side of steamed carrots
+Level 1,Type 1 Diabetes,Intermediate,Greek yogurt with chia seeds and berries,Grilled chicken with quinoa and roasted vegetables,Baked cod with a side of roasted sweet potatoes
+Level 1,Type 1 Diabetes,Intermediate,"Smoothie with almond milk, spinach, and protein powder",Grilled shrimp salad with avocado and mixed greens,Grilled chicken with steamed broccoli and brown rice
+Level 1,Type 1 Diabetes,Intermediate,Whole-grain toast with avocado and scrambled eggs,Turkey chili with kidney beans and cornbread,Baked salmon with quinoa and asparagus
+Level 1,Type 1 Diabetes,Difficult,"Scrambled eggs with spinach, cheese, and avocado",Turkey and vegetable stir-fry with quinoa,Grilled lamb with a side of roasted vegetables
+Level 1,Type 1 Diabetes,Difficult,"Smoothie bowl with chia seeds, almond butter, and berries",Grilled chicken and avocado salad with olive oil dressing,Roasted turkey with mashed cauliflower and green beans
+Level 1,Type 1 Diabetes,Difficult,"Omelette with mushrooms, cheese, and spinach",Grilled chicken wrap with veggies and hummus,Zucchini noodles with pesto and grilled chicken
+Level 2,Type 2 Diabetes,Easy,Fruit smoothie with spinach and almond butter,Grilled chicken sandwich with whole-grain bread,Stuffed bell peppers with ground turkey and quinoa
+Level 2,Type 2 Diabetes,Easy,Hard-boiled eggs with a side of fruit,Grilled chicken sandwich with avocado and tomato,Baked salmon with roasted sweet potatoes
+Level 2,Type 2 Diabetes,Easy,Scrambled eggs with spinach and a side of fruit,Chicken and vegetable stir-fry with brown rice,Grilled tofu with roasted vegetables
+Level 2,Type 2 Diabetes,Intermediate,Egg white scramble with turkey bacon,Lentil soup with a slice of whole-grain bread,Grilled tofu with roasted vegetables
+Level 2,Type 2 Diabetes,Intermediate,Veggie omelette with a side of fruit,Grilled chicken with quinoa and a side of roasted veggies,Stuffed bell peppers with ground turkey and quinoa
+Level 2,Type 2 Diabetes,Intermediate,Chia pudding with almond milk and berries,Grilled chicken wrap with veggies and hummus,Herb-crusted salmon with garlic mashed cauliflower
+Level 2,Type 2 Diabetes,Difficult,"Green smoothie with kale, spinach, and almond butter",Grilled chicken with avocado and roasted sweet potatoes,Herb-crusted salmon with quinoa and steamed broccoli
+Level 2,Type 2 Diabetes,Difficult,Scrambled eggs with avocado and sautéed spinach,Grilled tofu with roasted vegetables and quinoa,Grilled chicken with roasted cauliflower and a side of quinoa
+Level 2,Type 2 Diabetes,Difficult,Oatmeal with almond butter and chia seeds,Vegetable curry with brown rice,Grilled shrimp with roasted Brussels sprouts and quinoa
+Level 3,Type 3 Diabetes,Easy,Scrambled eggs with cheese and spinach,Grilled shrimp salad with avocado and lemon dressing,Baked cod with roasted sweet potatoes
+Level 3,Type 3 Diabetes,Easy,Cottage cheese with pineapple chunks,Turkey chili with kidney beans and cornbread,Grilled salmon with a cucumber dill salad
+Level 3,Type 3 Diabetes,Easy,Protein shake with almond milk and chia seeds,Stuffed cabbage rolls with ground beef and rice,Baked trout with a lemon butter sauce
+Level 3,Type 3 Diabetes,Intermediate,Greek yogurt with honey and chia seeds,Grilled shrimp and quinoa salad with avocado,Baked chicken with a side of roasted sweet potatoes
+Level 3,Type 3 Diabetes,Intermediate,"Smoothie with spinach, protein powder, and almond milk",Turkey wrap with hummus and veggies,Grilled salmon with a side of sautéed kale
+Level 3,Type 3 Diabetes,Intermediate,Whole-grain toast with avocado and poached eggs,Grilled chicken with quinoa and roasted vegetables,Zucchini noodles with pesto and grilled chicken
+Level 3,Type 3 Diabetes,Difficult,"Scrambled eggs with spinach, cheese, and avocado",Grilled shrimp with roasted cauliflower and quinoa,Grilled lamb with roasted vegetables
+Level 3,Type 3 Diabetes,Difficult,Chia pudding with almond milk and berries,Grilled chicken wrap with veggies and hummus,Roasted turkey with mashed cauliflower and green beans
+Level 3,Type 3 Diabetes,Difficult,"Omelette with mushrooms, cheese, and spinach",Grilled chicken wrap with veggies and hummus,Zucchini noodles with pesto and grilled chicken

@@ -1,0 +1,9 @@
+Raw JSON input: {"patient_id":26,"feedback":"a"}
+Decoded JSON: Array
+(
+    [patient_id] => 26
+    [feedback] => a
+)
+
+Extracted patient_id: 26
+Extracted feedback: a

@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About | Diabetes Recommendation System</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        /* General Styles */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f4f4f4;
+        }
+
+        /* Navbar */
+        .navbar {
+            background: #007bff;
+            padding: 15px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-radius: 20px;
+        }
+
+        .navbar a {
+            color: white;
+            text-decoration: none;
+            font-size: 18px;
+            padding: 10px 20px;
+        }
+
+        .navbar a:hover {
+            background: #0056b3;
+            border-radius: 5px;
+        }
+
+        /* Container */
+        .container {
+            width: 80%;
+            margin: 30px auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1,
+        h2 {
+            color: #007bff;
+        }
+
+        /* Footer */
+        .footer {
+            text-align: center;
+            padding: 15px 0;
+            background: #007bff;
+            color: white;
+            width: 100%;
+            position: relative;
+            bottom: 0;
+        }
+
+        .footer-links {
+            margin-bottom: 10px;
+        }
+
+        .footer-links a {
+            text-decoration: none;
+            color: white;
+            margin: 0 10px;
+            font-size: 16px;
+        }
+
+        .footer-links a:hover {
+            text-decoration: underline;
+        }
+
+        hr {
+            width: 80%;
+            margin: 10px auto;
+            border: 0;
+            border-top: 1px solid #ccc;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="navbar">
+        <a href="../PHP/index.php">Home</a>
+        <div>
+            <a href="#" class="btn">About</a>
+            <a href="../PHP/login.php" class="btn">Login</a>
+            <a href="../PHP/register.php" class="btn">Register</a>
+        </div>
+    </div>
+
+    <div class="container">
+        <h1>About Our Diabetes Recommendation System</h1>
+        <p>
+            Our Diabetes Recommendation System is designed to provide **personalized health recommendations**
+            based on patient data. Using **Deep Learning (DFM, LSTM)**, it predicts diabetes levels and suggests
+            suitable diet and exercise plans tailored to each user.
+        </p>
+
+        <h2>How It Works?</h2>
+        <ol>
+            <li>Users enter health details (BMI, BGL, Age).</li>
+            <li>The AI model predicts **diabetes severity levels**.</li>
+            <li>Based on the level, it recommends **diet and exercise plans**.</li>
+        </ol>
+
+        <h2>Key Features</h2>
+        <ul>
+            <li>✔ AI-Powered **Diabetes Prediction**</li>
+            <li>✔ **Diet Plans** for maintaining blood sugar levels</li>
+            <li>✔ **Exercise Suggestions** based on severity</li>
+            <li>✔ **Secure Login** & Data Storage</li>
+        </ul>
+
+        <h2>Why Choose Us?</h2>
+        <p>
+            With advanced **AI models** and a user-friendly interface, our system ensures accurate predictions
+            and tailored recommendations, helping users take control of their health effectively.
+        </p>
+    </div>
+
+    <footer class="footer">
+        <div class="footer-links">
+            <a href="../PHP/index.php">Home</a>
+            <a href="../PHP/login.php">Login</a>
+            <a href="../PHP/register.php">Register</a>
+            <a href="#">About</a>
+        </div>
+        <hr>
+        <p>© 2024 Company, Inc</p>
+    </footer>
+
+</body>
+
+</html>
